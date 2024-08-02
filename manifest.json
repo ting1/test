@@ -2,7 +2,7 @@
   "name": "PWA Chapter05 Demo",
   "short_name": "Chapter05 Demo",
 
-  "start_url": "/index.html",
+  "start_url": "/index3.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#1976d2"
